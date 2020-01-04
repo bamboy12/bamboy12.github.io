@@ -207,7 +207,7 @@ button:visited {
 }
 
 iframe#iframeVideo {
-
+  mix-blend-mode: overlay;
 }
 
 .buttonGroup {
