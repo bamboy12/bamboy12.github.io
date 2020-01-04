@@ -1,7 +1,6 @@
 body, html {
   font-family: 'Share Tech Mono', monospace;
   background-color: #121;
-  background-image: url("https://i.imgur.com/cP6z0TQ.jpg");
   color: #0f0;
   font-size: 16px;
       overflow-y:hidden;
@@ -100,7 +99,7 @@ button:hover, hr, img {
 body {
   padding: 20px;
   animation: twitch 0.5s infinite;
-  background: repeating-linear-gradient(0deg, #000, #000 2px, #020 2px, #020 4px);
+  background-image: url("https://i.imgur.com/cP6z0TQ.jpg");
 }
 
 .screen {
