@@ -98,7 +98,7 @@ button:hover, hr, img {
 body {
   padding: 20px;
   animation: twitch 0.5s infinite;
-  background-image: url("https://i.imgur.com/25HGrGX.jpg");
+  background-image: url("https://i.imgur.com/25HGrGX.jpg" style="max-width:100%;height:auto;);
 }
 
 .screen {
